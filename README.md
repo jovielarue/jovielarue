@@ -7,6 +7,6 @@
 
 - 🌱 I’m learning Rust and C
 
-- 👨‍💻 All of my projects are available at [jovielarue.github.io](jovielarue.github.io)
+- 👨‍💻 All of my projects are available at [jovielarue.net](https://jovielarue.net)
 
 - 💬 Ask me all about **my love for open source software!**
