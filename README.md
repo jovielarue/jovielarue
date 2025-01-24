@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jovie!</h1>
 <h3 align="center">I am a versatile software developer from Canada.</h3>
 
-- 🔭 I’m currently working on [transmitting images via sound](https://github.com/jovielarue/audimage) with Rust
+- 🔭 I most recently [transmitted images via sound](https://github.com/jovielarue/audimage) with minimodem and Rust
 
-- 🖥️ I've worked a multitude of websites with React, Next.js, and Wordpress
+- 🌱 I’m learning kernel development by [writing a bootloader and kernel for a router](https://github.com/jovielarue/minirouter) in one of my classes
 
-- 🌱 I’m learning Rust and C
+- 🖥️ I've worked a on multitude of websites with React, Next.js, and Wordpress
 
-- 👨‍💻 All of my projects are available at [jovielarue.net](https://jovielarue.net)
+- 👨‍💻 My awesome projects are available at [jovielarue.net](https://jovielarue.net)
 
 - 💬 Ask me all about **my love for open source software!**
