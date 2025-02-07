@@ -10,3 +10,7 @@
 - 👨‍💻 My awesome projects are available at [jovielarue.net](https://jovielarue.net)
 
 - 💬 Ask me all about **my love for open source software!**
+
+<div align='right'>
+<sup><i>Signed by <a href='https://github.com/JeremyCCox'>JeremyCCox</a></i></sup>
+</div>
