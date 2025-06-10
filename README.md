@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jovie!</h1>
+<h1 align="center">Hi, I'm Jovie! 😺</h1>
 <h3 align="center">I am a versatile software developer from Canada.</h3>
 
 - 🌱 I’m working with [Clove](https://helloclove.com), a Canadian Fintech company with services for small- to medium-sized businesses
