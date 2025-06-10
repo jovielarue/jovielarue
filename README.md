@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jovie!</h1>
 <h3 align="center">I am a versatile software developer from Canada.</h3>
 
-- 🔭 I most recently [transmitted images via sound](https://github.com/jovielarue/audimage) with minimodem and Rust
+- 🌱 I’m working with [Clove](https://helloclove.com), a Canadian Fintech company with services for small- to medium-sized businesses
 
-- 🌱 I’m learning kernel development by [writing a bootloader and kernel for a router](https://github.com/jovielarue/minirouter) in one of my classes
+- 🔭 I recently made an [open-source social media](https://github.com/jovielarue/mrrp) with Rust
 
 - 🖥️ I've worked a on multitude of websites with React, Next.js, and Wordpress
 
